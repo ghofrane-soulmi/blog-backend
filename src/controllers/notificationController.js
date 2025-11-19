@@ -9,15 +9,6 @@ exports.getNotifications = async (req, res) => {
     }
 };
 
-exports.markAsRead = async (req, res) => {
-    try {
-        const notification = await notificationService.markNotificationAsRead(req.params.id);
-        res.json(notification);
-    } catch (e) {
-        res.status(500).json({ message: e.message });
-    }
-};
-
 exports.createNotification = async (req, res) => {
     try {
         const saved = await notificationService.createNotification(req.body);
