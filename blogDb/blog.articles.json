@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "title": "Découvrir les merveilles de Paris test hello 1",
+  "content": "Paris est connue pour sa beauté, son histoire et sa culture. Cette ville offre de nombreux monuments à visiter, des musées prestigieux et une gastronomie unique.",
+  "picture": "https://picsum.photos/seed/paris/600/400",
+  "tags": [
+    "voyage",
+    "Paris",
+    "culture"
+  ],
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "createdAt": {
+    "$date": "2025-11-17T18:48:41.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T18:48:41.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "title": "Les bienfaits du yoga au quotidien",
+  "content": "Le yoga améliore la souplesse, réduit le stress et favorise un meilleur équilibre mental et physique. Pratiquer régulièrement peut transformer votre bien-être.",
+  "picture": "https://picsum.photos/seed/yoga/600/400",
+  "tags": [
+    "santé",
+    "bien-être",
+    "yoga"
+  ],
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "createdAt": {
+    "$date": "2025-11-17T18:48:30.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T18:48:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691b5d8aff9f436819cf26f7"
+  },
+  "title": "Cuisine méditerranéenne : recettes faciles",
+  "content": "Découvrez des recettes méditerranéennes simples et savoureuses, parfaites pour une alimentation saine et gourmande.",
+  "picture": "https://picsum.photos/seed/cuisine/600/400",
+  "tags": [
+    "cuisine",
+    "recette",
+    "méditerranée"
+  ],
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "createdAt": {
+    "$date": "2025-11-17T18:48:35.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T18:48:35.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691b5d8aff9f436819cf26f8"
+  },
+  "title": "Technologies du futur : IA et robotique",
+  "content": "L'intelligence artificielle et la robotique changent notre manière de travailler et d'interagir avec le monde. Explorons les innovations les plus prometteuses.",
+  "picture": "https://picsum.photos/seed/tech/600/400",
+  "tags": [
+    "technologie",
+    "IA",
+    "robotique"
+  ],
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "createdAt": {
+    "$date": "2025-11-17T18:48:37.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T18:48:37.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691b5d8aff9f436819cf26f9"
+  },
+  "title": "Randonnées à couper le souffle en montagne",
+  "content": "Partez à l'aventure et découvrez des paysages montagneux spectaculaires, parfaits pour les amateurs de randonnée et de nature.",
+  "picture": "https://picsum.photos/seed/montagne/600/400",
+  "tags": [
+    "aventure",
+    "randonnée",
+    "nature"
+  ],
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "createdAt": {
+    "$date": "2025-11-17T18:48:39.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T18:48:39.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691b6df96ad7fc96c0bd63b8"
+  },
+  "title": "Ut assumenda accusam",
+  "content": "Culpa neque asperior",
+  "tags": [
+    "Officiis magnam vita"
+  ],
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "createdAt": {
+    "$date": "2025-11-17T18:48:25.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T18:48:25.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691cd2b9433a1723443c54f0"
+  },
+  "title": "testtrole",
+  "content": "testsetsetsetstst",
+  "tags": [
+    "est",
+    "tes",
+    "tre"
+  ],
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T20:10:33.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-18T20:10:33.751Z"
+  },
+  "__v": 0
+}]

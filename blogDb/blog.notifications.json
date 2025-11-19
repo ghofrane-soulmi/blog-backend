@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "691c5532155491d64d4eaf6b"
+  },
+  "user": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "message": "test commented on your article",
+  "articleId": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "comment": {
+    "$oid": "691c5532155491d64d4eaf65"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2025-11-18T11:14:58.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c582a155491d64d4eafc2"
+  },
+  "user": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "message": "test commented on your article",
+  "articleId": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "comment": {
+    "$oid": "691c582a155491d64d4eafbc"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2025-11-18T11:27:38.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c662b5dc42b36bc3fe9f0"
+  },
+  "user": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "message": "test commented on your article",
+  "articleId": {
+    "$oid": "691b6df96ad7fc96c0bd63b8"
+  },
+  "comment": {
+    "$oid": "691c662b5dc42b36bc3fe9ea"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2025-11-18T12:27:23.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c663f5dc42b36bc3fea07"
+  },
+  "user": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "message": "test commented on your article",
+  "articleId": {
+    "$oid": "691b6df96ad7fc96c0bd63b8"
+  },
+  "comment": {
+    "$oid": "691c663f5dc42b36bc3fea01"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2025-11-18T12:27:43.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691cb57cece2807ec92d9530"
+  },
+  "user": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "message": "Xavier Clayton commented on your article",
+  "articleId": {
+    "$oid": "691b6df96ad7fc96c0bd63b8"
+  },
+  "comment": {
+    "$oid": "691cb57cece2807ec92d952a"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2025-11-18T18:05:48.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ce62b433a1723443c5900"
+  },
+  "user": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "message": "Xavier Clayton commented on your article",
+  "articleId": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "comment": {
+    "$oid": "691ce62b433a1723443c58fa"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2025-11-18T21:33:31.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ce9ae433a1723443c596e"
+  },
+  "user": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "message": "Xavier Clayton commented on your article",
+  "articleId": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "comment": {
+    "$oid": "691ce9ae433a1723443c5968"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2025-11-18T21:48:30.699Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,445 @@
+[{
+  "_id": {
+    "$oid": "691c582a155491d64d4eafbc"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "text": "hello test websocket and notif ",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T11:27:38.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c5a69eb284c7e4ad742a7"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "text": "okaay and it works ? ",
+  "parent": {
+    "$oid": "691c582a155491d64d4eafbc"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T11:37:13.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c5a92eb284c7e4ad742b7"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "text": "helllo",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T11:37:54.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c5c4deb284c7e4ad742e2"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "author": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "text": "test web 2 ",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T11:45:17.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c5f60eb72fdaeb2c6757c"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "testtttttttt",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T11:58:24.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c6017c23c8303d2680c10"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "text": "have the test",
+  "parent": {
+    "$oid": "691c5c4deb284c7e4ad742e2"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T12:01:27.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c602ec23c8303d2680c1c"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "okaaay",
+  "parent": {
+    "$oid": "691c5f60eb72fdaeb2c6757c"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T12:01:50.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c6402c23c8303d2680c5f"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "text": "testtttttt",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T12:18:10.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c662b5dc42b36bc3fe9ea"
+  },
+  "article": {
+    "$oid": "691b6df96ad7fc96c0bd63b8"
+  },
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "text": "helllooooo",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T12:27:23.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c663f5dc42b36bc3fea01"
+  },
+  "article": {
+    "$oid": "691b6df96ad7fc96c0bd63b8"
+  },
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "text": "hiiii",
+  "parent": {
+    "$oid": "691c662b5dc42b36bc3fe9ea"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T12:27:43.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c78ff5dc42b36bc3fea3f"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "text": "testst",
+  "parent": {
+    "$oid": "691c5a69eb284c7e4ad742a7"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T13:47:43.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c79055dc42b36bc3fea46"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "text": "testtt",
+  "parent": {
+    "$oid": "691c78ff5dc42b36bc3fea3f"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T13:47:49.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691c790a5dc42b36bc3fea4d"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "text": "tsets",
+  "parent": {
+    "$oid": "691c79055dc42b36bc3fea46"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T13:47:54.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691cb546ece2807ec92d9515"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f8"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "heello",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T18:04:54.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691cb55fece2807ec92d951b"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f8"
+  },
+  "author": {
+    "$oid": "691b21382f0abc80f55fb567"
+  },
+  "text": "hi i'm here ",
+  "parent": {
+    "$oid": "691cb546ece2807ec92d9515"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T18:05:19.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691cb56dece2807ec92d9521"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f8"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "another comments",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T18:05:33.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691cb57cece2807ec92d952a"
+  },
+  "article": {
+    "$oid": "691b6df96ad7fc96c0bd63b8"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "testt commenrs ",
+  "parent": {
+    "$oid": "691c663f5dc42b36bc3fea01"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T18:05:48.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ce62b433a1723443c58fa"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "heloo",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T21:33:31.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ce641433a1723443c5917"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b3dacd2a2867804ddd4d7"
+  },
+  "text": "hi",
+  "parent": {
+    "$oid": "691ce62b433a1723443c58fa"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T21:33:53.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ce9ae433a1723443c5968"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "testttntoiff",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T21:48:30.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ceaef433a1723443c5994"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f9"
+  },
+  "author": {
+    "$oid": "691b6ef56ad7fc96c0bd63ca"
+  },
+  "text": "test",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-18T21:53:51.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691d8556322f8a2fafb249f6"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b70026ad7fc96c0bd63d3"
+  },
+  "text": "hello",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-19T08:52:38.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691d8559322f8a2fafb249fd"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b70026ad7fc96c0bd63d3"
+  },
+  "text": "hello",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-19T08:52:41.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691d85ee322f8a2fafb24a13"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f5"
+  },
+  "author": {
+    "$oid": "691b70026ad7fc96c0bd63d3"
+  },
+  "text": "heeelo",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-19T08:55:10.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691d869d217b85275d72eb68"
+  },
+  "article": {
+    "$oid": "691b5d8aff9f436819cf26f6"
+  },
+  "author": {
+    "$oid": "691b70026ad7fc96c0bd63d3"
+  },
+  "text": "hellp",
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-11-19T08:58:05.474Z"
+  },
+  "__v": 0
+}]
